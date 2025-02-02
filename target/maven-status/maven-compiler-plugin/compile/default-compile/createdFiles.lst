@@ -1,0 +1,9 @@
+com\apartment\app\service\BuildingService.class
+com\apartment\app\test\BuildingTest$TestRoom.class
+com\apartment\app\entity\CommonRoom$Type.class
+com\apartment\app\entity\Apartment.class
+com\apartment\app\entity\CommonRoom.class
+com\apartment\app\test\BuildingTest.class
+com\apartment\app\buildingcontrol.class
+com\apartment\app\entity\Room.class
+com\apartment\app\exception\DuplicateRoomException.class
